@@ -3,15 +3,20 @@
 
 
 目前组织内核心成员是：
-+ [@Candlelight-XYJ](https://github.com/Candlelight-XYJ)  **Yujia Xiang**
++ **Yujia Xiang**
+  + [@Candlelight-XYJ](https://github.com/Candlelight-XYJ)  
   + **Blog** ：https://blog.csdn.net/Candle_light
-+ [@tcy112233](https://github.com/tcy112233)  **Chuangyu Tian**
++ **Chuangyu Tian**
+  + [@tcy112233](https://github.com/tcy112233)  
   + **Blog** ：https://blog.csdn.net/weixin_43910326
-+ [@xxzshaw](https://github.com/xxzshaw)  **Xiaoxiao Zhang**
++ **Xiaoxiao Zhang**
+  + [@xxzshaw](https://github.com/xxzshaw)  
   + **Blog** ：https://blog.csdn.net/weixin_44614936
-+ [@kerwin12580](https://github.com/kerwin12580)  **Zhenghua Chen**
++ **Zhenghua Chen**
+  + [@kerwin12580](https://github.com/kerwin12580)  
   + **Blog** ：
-+ [@CoolEvilgenius](https://github.com/CoolEvilgenius)  **Zhiyuan Li**
++ **Zhiyuan Li**
+  + [@CoolEvilgenius](https://github.com/CoolEvilgenius)  
   + **Blog** ：https://blog.csdn.net/weixin_41655910
 
 #### 目标
