@@ -1,4 +1,5 @@
-# wiki
+# BioinfoGeeks
+
 
 
 目前组织内核心成员是：
