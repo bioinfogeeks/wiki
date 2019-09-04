@@ -41,6 +41,8 @@ D       Session2_0825/Genome-wide efficient mixed-model analysis for association
 + 存好资料之后，打开README.md文件，用 **`markdown`** 语法将自己本次分享的信息 **`【按格式，规范的】`** 编辑好。编辑结束后，点击保存，准备进入下一步的 **`push`** 并且 **`merge`** 的环节。
 
 
+## 注意
++ 在第一次克隆了远程仓库后，由于仓库内容可能发生更新，所以每次修改自己的文件之前，请先 **`git pull`** ，将远程的更新内容拉到本地，然后再 **`git push`**
 
 
 ## 参考链接 
